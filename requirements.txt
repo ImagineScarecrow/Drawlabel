@@ -1,0 +1,18 @@
+altgraph==                  0.17.2                               
+cycler  ==                  0.11.0                   
+imgviz      ==              1.4.1                    
+importlib-metadata     ==   4.8.2                    
+kiwisolver==                1.3.1                   
+matplotlib==                3.3.4                   
+numpy==                     1.19.5                                     
+pillow==                    8.4.0                                     
+pyparsing==                 3.0.5                    
+pyqt5==                     5.15.6                  
+pyqt5-qt5==                 5.15.2                   
+pyqt5-sip==                 12.9.0                                        
+python-dateutil==           2.8.2                   
+pyyaml==                    6.0                                                                
+six ==                      1.16.0                                                            
+typing-extensions ==        3.10.0.2                                                        
+zipp==                      3.6.0                      
+qtpy==                      1.11.2
