@@ -52,3 +52,4 @@ v.06
 2、目前默认显示.lines.txt文件，在配置文件exe_file/config.json (如果运行代码 就修改主文件夹的config.json文件)中可以修改 __TXT_SUFFIX__ 来决定显示.txt 文件或者.lines.txt文件
 3、新增点删除功能，鼠标对准要删除的点，按x可删除对应点，目前暂不支持撤回功能。
 4、修改了连续删除标签闪退bug
+5、None
